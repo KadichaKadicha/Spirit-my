@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="231d98f3-849e-4da5-a761-af7daad3c526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/cute-92.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cuteiphone28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +65,7 @@
       <workItem from="1602948248054" duration="1002000" />
       <workItem from="1603008093727" duration="27000" />
       <workItem from="1603093823202" duration="3133000" />
+      <workItem from="1603186674493" duration="404000" />
     </task>
     <servers />
   </component>
